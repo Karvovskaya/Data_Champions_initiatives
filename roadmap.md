@@ -10,6 +10,7 @@
 - [ ] Raising awareness about the initiative at the library, management team and the data stewards within faculties
 - [ ] Approaching researchers at the faculties
 - [ ] Formalizing agreements
+- [ ] Climate assessment survey about open science at faculties (work on it together with data stewards and )
 
 ## Long term 
 - [ ] Nominating  data champions

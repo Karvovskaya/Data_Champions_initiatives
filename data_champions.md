@@ -12,6 +12,14 @@ My mentor will be Patricia  @pherterich
 https://openlifesci.org/posts/2020/01/13/ols1-announcement/
 
 
+# Open Canvas
+Open canvas for the project can be found here
+https://docs.google.com/presentation/d/106ZGW2e_myZqohYwT5Foz4_ujD_F91PeBt8KVBhKhUw/edit?usp=sharing
+
+
+
+## Additional materials
+
 I created a spreadsheet for an overview of various ambassador communities https://docs.google.com/spreadsheets/d/1VbYppefpY-uXb4Kqtzi3QbC63GZF9sDM-lhH8WWwbHo/edit?usp=sharing
 
 A few links to other champion programs:

@@ -29,3 +29,28 @@ The Open University Library - a call for Data Champions http://www.open.ac.uk/bl
 EPFL Data Champions - https://www.epfl.ch/campus/library/services/services-researchers/rdm-contacts-communities/epfl-data-champions/ (I assume that Francesco Varrato is involved in the program)
 
 
+
+### Survey at TU Delft
+
+Here are all the resources about the survey:
+
+Paper: http://doi.org/10.18352/lq.10287
+
+Questions: https://osf.io/mz3fx/
+
+Anonymised answers: https://doi.org/10.5281/zenodo.3380332
+
+Visualization of the answers from 2017-2018: https://public.tableau.com/profile/jasper.van.dijck#!/vizhome/20180809TUDelftResearchDataManagementSurvey2017-2018/TUDelftRDMsurvey2017-2018
+
+Visualization of the answers from 2019: https://public.tableau.com/profile/nicolas.dintzner#!/vizhome/RDMSurvey2019/Dashboard1?publish=yes
+
+### Possibly another resource of interest:
+
+Cultural obstacles to research data management and sharing at TU Delft: http://doi.org/10.1629/uksg.484
+
+Gary Steele has once ran a survey during a scientific meeting:
+https://doi.org/10.5281/zenodo.2600527
+
+ 
+
+ 

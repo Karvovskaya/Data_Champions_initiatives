@@ -52,5 +52,15 @@ Gary Steele has once ran a survey during a scientific meeting:
 https://doi.org/10.5281/zenodo.2600527
 
  
+### Publications about data Champions:
+Creating a Community of Data Champions
+R. Higman, M. Teperek & D. Kingsley, International Journal of Digital Curation, Vol 12 No 2 (2017), DOI: 10.2218/ijdc.v12i2.562
 
- 
+Establishing, Developing, and Sustaining a Community of Data Champions
+J. L. Savage & L. Cadwallader, Data Science Journal, 18: 23, pp. 1–8. (2019), DOI: 10.5334/dsj-2019-023
+
+How to build a community of Data Champions: Six Steps to Success
+C. Clare, Zenodo (2019), DOI: 10.5281/zenodo.3383814
+
+Engaging Researchers with Data Management: The Cookbook. DOI: 10.11647/OBP.0185
+https://www.openbookpublishers.com/product/1080
